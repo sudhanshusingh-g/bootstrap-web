@@ -1,0 +1,94 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.5;
+    font-size: 3rem;
+    padding-top: 5%;
+}
+body{
+    text-align: center;
+}
+#about{
+    padding: 7%;
+    background-color: #1967FF;
+    color: #fff;
+}
+nav .nav-item{
+    padding: 0 18px;
+}
+nav .nav-link{
+    font-size: 1.2rem;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    padding-bottom: 24px;
+}
+
+#skills{
+    padding: 7% 15%;
+}
+.bio{
+    text-align: center;
+    padding: 2%;
+}
+
+.develop h5{
+    text-align: left;
+}
+.design h5{
+    text-align: left;
+}
+.design ul{
+    text-align: left;
+}
+.tools{
+    text-align: left;
+}
+.develop ul{
+    text-align: left;
+}
+footer{
+    padding: 7% 15%;
+    background-color: #1967FF;
+    color: #fff;
+}
+footer .nav-link{
+    display: inline-block;
+}
+.fa{
+    font-size: 2rem;
+
+}
+#contacts{
+    max-width: 70%;
+    margin: 0 auto;
+    background-color: #001948;
+    padding: 16px;
+    color: #fff;
+    border-radius: 11px;
+}
+
+#learning-platform{
+    background-color: #1967FF;
+    color: #fff;
+}
+.platform-image{
+    margin: 20px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#projects{
+    padding: 7% 15%;
+}
+.card-blog{
+    border-radius: 11px;
+    border:2px solid black;
+    padding: 18px;
+}
+#blogs{
+    padding: 7% 15%;
+}
+.icon{
+    margin: 20px 15px;
+}
